@@ -10,6 +10,7 @@ Services:
   - Mobile Pentesting
   - WLAN pentesting
   - Hardware Hacking
+  - Forensics
     
 Researching:
 
