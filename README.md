@@ -6,6 +6,7 @@ Services:
   - Web App Pentesting
   - Cloud Pentesting
   - On-Premise Pentesting
+  - Active Directory Pentesting
   - Mobile Pentesting
   - WLAN pentesting
   - Hardware Hacking
@@ -22,10 +23,9 @@ Class:
 
 Contact:
 
-  - Telegram: @sprintquina
   - Instagram: @revers3everything
   - Youtube: @revers3everything
-  - Gmail: sprintquina8@gmail.com
+  - Gmail: revers3everything@gmail.com
     
 
 
