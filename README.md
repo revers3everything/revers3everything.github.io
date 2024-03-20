@@ -24,8 +24,8 @@ Class:
 
 Contact:
 
-  - Instagram: @revers3everything
-  - Youtube: @revers3everything
+  - Instagram: @revers3everything - https://www.instagram.com/revers3everything/
+  - Youtube: @revers3everything - https://www.youtube.com/@revers3everything
   - Gmail: revers3everything@gmail.com
     
 
