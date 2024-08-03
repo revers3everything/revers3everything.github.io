@@ -3,30 +3,22 @@ Reverse Engineering Researchs
 
 Services:
 
-  - Web App Pentesting
-  - Cloud Pentesting
-  - On-Premise Pentesting
-  - Active Directory Pentesting
-  - Mobile Pentesting
-  - WLAN pentesting
-  - Hardware Hacking
-  - Forensics
-    
-Researching:
-
-  - Modems/Routers Hacking
-  - Car Hacking
-
-Class:
-  - Clases privadas
-  - Capacitaciones
-  - Charlas
+  - Hardware Security Research
+  - Biometric Security Research
+  - Car Security Research
+  - RF Security Research
+  - Binary Security Research
+  - Forensics: Malware Analysis, Hacking Analysis
+  - Private Class
+  - Ethical Hacking Class
+  - Cybersecurity Talks
 
 Contact:
 
   - Instagram: @revers3everything - https://www.instagram.com/revers3everything/
   - Youtube: @revers3everything - https://www.youtube.com/@revers3everything
   - Gmail: revers3everything@gmail.com
+  - Linkedin: https://www.linkedin.com/company/reverse-everything
     
 
 
