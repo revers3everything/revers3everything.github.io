@@ -17,7 +17,7 @@ Contact:
 
   - Instagram: @revers3everything - https://www.instagram.com/revers3everything/
   - Youtube: @revers3everything - https://www.youtube.com/@revers3everything
-  - Gmail: revers3everything@gmail.com
+  - Gmail: danilo.erazo@revers3everything.com
   - Linkedin: https://www.linkedin.com/company/reverse-everything
     
 
